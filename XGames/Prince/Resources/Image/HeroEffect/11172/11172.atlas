@@ -1,0 +1,41 @@
+
+11172.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a1
+  rotate: false
+  xy: 143, 53
+  size: 186, 73
+  orig: 186, 73
+  offset: 0, 0
+  index: -1
+tx/a2
+  rotate: true
+  xy: 331, 26
+  size: 100, 134
+  orig: 100, 134
+  offset: 0, 0
+  index: -1
+tx/a8
+  rotate: false
+  xy: 2, 2
+  size: 139, 124
+  orig: 139, 124
+  offset: 0, 0
+  index: -1
+tx/a9
+  rotate: false
+  xy: 467, 45
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+tx/l9
+  rotate: false
+  xy: 594, 65
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1

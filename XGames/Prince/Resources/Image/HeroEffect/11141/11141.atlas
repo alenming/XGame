@@ -1,0 +1,69 @@
+
+11141.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HuaRong_ar
+  rotate: false
+  xy: 258, 92
+  size: 52, 140
+  orig: 52, 140
+  offset: 0, 0
+  index: -1
+HuaRong_b1
+  rotate: true
+  xy: 333, 230
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+HuaRong_b14
+  rotate: false
+  xy: 2, 377
+  size: 259, 126
+  orig: 259, 126
+  offset: 0, 0
+  index: -1
+HuaRong_b15
+  rotate: true
+  xy: 447, 434
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+HuaRong_b2
+  rotate: false
+  xy: 167, 234
+  size: 164, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+HuaRong_b3
+  rotate: false
+  xy: 263, 372
+  size: 182, 131
+  orig: 182, 131
+  offset: 0, 0
+  index: -1
+HuaRong_b4
+  rotate: false
+  xy: 2, 193
+  size: 163, 182
+  orig: 163, 182
+  offset: 0, 0
+  index: -1
+HuaRong_b5
+  rotate: true
+  xy: 2, 2
+  size: 189, 134
+  orig: 189, 134
+  offset: 0, 0
+  index: -1
+HuaRong_b6
+  rotate: true
+  xy: 138, 11
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1

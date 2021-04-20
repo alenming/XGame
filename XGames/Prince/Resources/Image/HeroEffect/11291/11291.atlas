@@ -1,0 +1,34 @@
+
+11291.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/atk/01
+  rotate: false
+  xy: 286, 4
+  size: 279, 241
+  orig: 287, 246
+  offset: 0, 5
+  index: -1
+tx/atk/02
+  rotate: false
+  xy: 2, 2
+  size: 282, 243
+  orig: 287, 246
+  offset: 0, 3
+  index: -1
+tx/atk/03
+  rotate: false
+  xy: 567, 20
+  size: 242, 225
+  orig: 287, 246
+  offset: 45, 0
+  index: -1
+tx/atk/04
+  rotate: false
+  xy: 811, 62
+  size: 154, 183
+  orig: 287, 246
+  offset: 133, 0
+  index: -1

@@ -1,0 +1,2 @@
+Lota.exe
+pause

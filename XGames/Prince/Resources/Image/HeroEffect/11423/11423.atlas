@@ -1,0 +1,76 @@
+
+11423.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlashR
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HuaRong_a14
+  rotate: false
+  xy: 579, 63
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 272, 35
+  size: 238, 86
+  orig: 238, 86
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 535, 128
+  size: 251, 90
+  orig: 251, 90
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 272, 123
+  size: 261, 95
+  orig: 261, 95
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 2, 14
+  size: 264, 100
+  orig: 264, 100
+  offset: 0, 0
+  index: -1
+a6
+  rotate: false
+  xy: 2, 116
+  size: 268, 102
+  orig: 268, 102
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 512, 55
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 788, 122
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 895, 122
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1

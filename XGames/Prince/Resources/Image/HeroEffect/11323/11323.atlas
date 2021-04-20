@@ -1,0 +1,76 @@
+
+11323.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/FlashR
+  rotate: false
+  xy: 963, 500
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+TX/Huan_1
+  rotate: true
+  xy: 2, 2
+  size: 239, 120
+  orig: 250, 124
+  offset: 0, 4
+  index: -1
+TX/TXBiSha_01
+  rotate: false
+  xy: 2, 243
+  size: 165, 267
+  orig: 190, 275
+  offset: 12, 4
+  index: -1
+TX/TXBiSha_02
+  rotate: true
+  xy: 374, 332
+  size: 178, 214
+  orig: 190, 275
+  offset: 8, 6
+  index: -1
+TX/TXBiSha_03
+  rotate: true
+  xy: 590, 330
+  size: 180, 188
+  orig: 190, 275
+  offset: 10, 9
+  index: -1
+TX/TXBiSha_04
+  rotate: false
+  xy: 780, 329
+  size: 181, 181
+  orig: 190, 275
+  offset: 9, 8
+  index: -1
+TX/TXBiSha_05
+  rotate: false
+  xy: 187, 122
+  size: 179, 182
+  orig: 190, 275
+  offset: 8, 10
+  index: -1
+TX/TXBiSha_06
+  rotate: false
+  xy: 374, 181
+  size: 177, 149
+  orig: 190, 275
+  offset: 13, 14
+  index: -1
+TX/dilie
+  rotate: true
+  xy: 124, 13
+  size: 228, 61
+  orig: 228, 78
+  offset: 0, 9
+  index: -1
+TX/huoqiu
+  rotate: false
+  xy: 169, 306
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -1

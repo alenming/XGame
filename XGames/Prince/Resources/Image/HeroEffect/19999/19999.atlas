@@ -1,0 +1,13 @@
+
+19999.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kong
+  rotate: false
+  xy: 2, 2
+  size: 126, 145
+  orig: 135, 162
+  offset: 5, 13
+  index: -1

@@ -1,0 +1,146 @@
+
+42024.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiangbing_dangban
+  rotate: false
+  xy: 122, 42
+  size: 66, 39
+  orig: 80, 49
+  offset: 14, 6
+  index: -1
+qiangbing_eye_attack
+  rotate: false
+  xy: 348, 61
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+qiangbing_eye_closed
+  rotate: true
+  xy: 122, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+qiangbing_eye_hit
+  rotate: false
+  xy: 348, 34
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+qiangbing_eye_stand
+  rotate: true
+  xy: 150, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+qiangbing_head
+  rotate: false
+  xy: 2, 7
+  size: 69, 74
+  orig: 81, 76
+  offset: 12, 0
+  index: -1
+qiangbing_l_Finger
+  rotate: false
+  xy: 224, 17
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+qiangbing_l_calf
+  rotate: true
+  xy: 190, 40
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+qiangbing_l_forearm
+  rotate: false
+  xy: 388, 46
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+qiangbing_l_hand
+  rotate: false
+  xy: 248, 21
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+qiangbing_l_thigh
+  rotate: true
+  xy: 250, 43
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+qiangbing_l_upperArm
+  rotate: true
+  xy: 301, 42
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+qiangbing_pelvis
+  rotate: false
+  xy: 250, 93
+  size: 76, 33
+  orig: 76, 33
+  offset: 0, 0
+  index: -1
+qiangbing_r_calf
+  rotate: false
+  xy: 392, 75
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+qiangbing_r_forearm
+  rotate: true
+  xy: 178, 19
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+qiangbing_r_hand
+  rotate: true
+  xy: 423, 48
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+qiangbing_r_thigh
+  rotate: false
+  xy: 448, 77
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+qiangbing_r_upperArm
+  rotate: true
+  xy: 328, 94
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+qiangbing_spine
+  rotate: false
+  xy: 73, 7
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+qiangbing_weapon
+  rotate: true
+  xy: 2, 83
+  size: 43, 246
+  orig: 43, 246
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+11333.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/FlashR
+  rotate: false
+  xy: 152, 50
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+tx/atk/01
+  rotate: false
+  xy: 2, 149
+  size: 154, 105
+  orig: 155, 108
+  offset: 0, 3
+  index: -1
+tx/atk/02
+  rotate: false
+  xy: 2, 42
+  size: 148, 105
+  orig: 155, 108
+  offset: 7, 0
+  index: -1
+tx/atk/03
+  rotate: true
+  xy: 574, 163
+  size: 91, 99
+  orig: 155, 108
+  offset: 64, 3
+  index: -1
+tx/atk/04
+  rotate: true
+  xy: 675, 171
+  size: 83, 95
+  orig: 155, 108
+  offset: 68, 0
+  index: -1
+tx/atk/05
+  rotate: true
+  xy: 294, 2
+  size: 58, 74
+  orig: 155, 108
+  offset: 93, 7
+  index: -1
+tx/atks/1/01
+  rotate: false
+  xy: 152, 57
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+tx/atks/1/02
+  rotate: false
+  xy: 228, 57
+  size: 64, 75
+  orig: 74, 75
+  offset: 4, 0
+  index: -1
+tx/atks/1/03
+  rotate: false
+  xy: 960, 179
+  size: 62, 75
+  orig: 74, 75
+  offset: 5, 0
+  index: -1
+tx/atks/1/04
+  rotate: false
+  xy: 366, 62
+  size: 62, 75
+  orig: 74, 75
+  offset: 5, 0
+  index: -1
+tx/atks/1/05
+  rotate: true
+  xy: 675, 103
+  size: 66, 75
+  orig: 74, 75
+  offset: 3, 0
+  index: -1
+tx/atks/1/06
+  rotate: false
+  xy: 294, 62
+  size: 70, 75
+  orig: 74, 75
+  offset: 1, 0
+  index: -1
+tx/atks/3/01
+  rotate: false
+  xy: 474, 160
+  size: 98, 94
+  orig: 125, 125
+  offset: 14, 10
+  index: -1
+tx/atks/3/02
+  rotate: false
+  xy: 158, 134
+  size: 125, 120
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+tx/atks/3/03
+  rotate: false
+  xy: 285, 139
+  size: 93, 115
+  orig: 125, 125
+  offset: 20, 10
+  index: -1
+tx/atks/3/04
+  rotate: false
+  xy: 380, 144
+  size: 92, 110
+  orig: 125, 125
+  offset: 21, 15
+  index: -1
+tx/atks/3/05
+  rotate: false
+  xy: 772, 171
+  size: 82, 83
+  orig: 125, 125
+  offset: 21, 19
+  index: -1
+tx/atks/4/01
+  rotate: false
+  xy: 2, 4
+  size: 97, 36
+  orig: 123, 50
+  offset: 0, 0
+  index: -1
+tx/atks/4/02
+  rotate: false
+  xy: 856, 204
+  size: 102, 50
+  orig: 123, 50
+  offset: 21, 0
+  index: -1
+tx/atks/4/03
+  rotate: false
+  xy: 856, 152
+  size: 99, 50
+  orig: 123, 50
+  offset: 24, 0
+  index: -1
+tx/atks/4/04
+  rotate: false
+  xy: 474, 115
+  size: 85, 43
+  orig: 123, 50
+  offset: 33, 0
+  index: -1
+tx/atks/4/05
+  rotate: false
+  xy: 370, 24
+  size: 62, 36
+  orig: 123, 50
+  offset: 49, 0
+  index: -1

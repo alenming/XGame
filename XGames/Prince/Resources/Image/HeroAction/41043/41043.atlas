@@ -1,0 +1,244 @@
+
+41043.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: true
+  xy: 959, 163
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 638, 121
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+l3
+  rotate: true
+  xy: 148, 31
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 776, 184
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+l7
+  rotate: false
+  xy: 568, 154
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+linchong_Belt1
+  rotate: false
+  xy: 872, 170
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+linchong_Belt2
+  rotate: false
+  xy: 384, 87
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+linchong_cape
+  rotate: true
+  xy: 306, 156
+  size: 98, 147
+  orig: 98, 147
+  offset: 0, 0
+  index: -1
+linchong_cape2
+  rotate: true
+  xy: 266, 47
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+linchong_ceshen_belt
+  rotate: true
+  xy: 345, 8
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+linchong_ceshen_cape
+  rotate: false
+  xy: 266, 2
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+linchong_ceshen_cape2
+  rotate: false
+  xy: 671, 147
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+linchong_ceshen_head
+  rotate: false
+  xy: 455, 158
+  size: 111, 96
+  orig: 111, 96
+  offset: 0, 0
+  index: -1
+linchong_ceshen_spine
+  rotate: false
+  xy: 323, 84
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+linchong_eye_attack
+  rotate: false
+  xy: 482, 114
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+linchong_eye_closed
+  rotate: false
+  xy: 518, 114
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+linchong_eye_dead
+  rotate: true
+  xy: 323, 47
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+linchong_eye_hit
+  rotate: true
+  xy: 824, 144
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+linchong_eye_stand
+  rotate: true
+  xy: 554, 118
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+linchong_head
+  rotate: true
+  xy: 2, 34
+  size: 111, 144
+  orig: 111, 144
+  offset: 0, 0
+  index: -1
+linchong_l_Finger
+  rotate: false
+  xy: 121, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+linchong_l_calf
+  rotate: true
+  xy: 2, 2
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+linchong_l_forearm
+  rotate: false
+  xy: 598, 120
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+linchong_l_hand
+  rotate: false
+  xy: 671, 121
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+linchong_l_thigh
+  rotate: true
+  xy: 959, 210
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+linchong_l_upperArm
+  rotate: true
+  xy: 145, 8
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+linchong_l_weapon2
+  rotate: true
+  xy: 2, 147
+  size: 107, 302
+  orig: 107, 302
+  offset: 0, 0
+  index: -1
+linchong_r_calf
+  rotate: true
+  xy: 749, 145
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+linchong_r_forearm
+  rotate: true
+  xy: 77, 2
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+linchong_r_hand
+  rotate: false
+  xy: 699, 121
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+linchong_r_thigh
+  rotate: false
+  xy: 443, 96
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+linchong_r_upperArm
+  rotate: true
+  xy: 200, 6
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+linchong_ribbon
+  rotate: true
+  xy: 867, 143
+  size: 25, 73
+  orig: 25, 73
+  offset: 0, 0
+  index: -1
+linchong_spine
+  rotate: true
+  xy: 671, 187
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1

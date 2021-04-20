@@ -1,0 +1,83 @@
+
+12005.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/2/01
+  rotate: false
+  xy: 891, 129
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+tx/2/02
+  rotate: false
+  xy: 469, 83
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+tx/2/03
+  rotate: true
+  xy: 351, 29
+  size: 149, 116
+  orig: 149, 116
+  offset: 0, 0
+  index: -1
+tx/2/04
+  rotate: false
+  xy: 2, 14
+  size: 198, 164
+  orig: 198, 164
+  offset: 0, 0
+  index: -1
+tx/2/05
+  rotate: false
+  xy: 702, 228
+  size: 296, 247
+  orig: 296, 247
+  offset: 0, 0
+  index: -1
+tx/2/06
+  rotate: false
+  xy: 374, 187
+  size: 326, 288
+  orig: 326, 288
+  offset: 0, 0
+  index: -1
+tx/2/07
+  rotate: false
+  xy: 2, 180
+  size: 370, 295
+  orig: 370, 295
+  offset: 0, 0
+  index: -1
+tx/FlashB
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+tx/a3
+  rotate: false
+  xy: 702, 139
+  size: 187, 87
+  orig: 187, 87
+  offset: 0, 0
+  index: -1
+tx/a9
+  rotate: true
+  xy: 598, 60
+  size: 125, 81
+  orig: 125, 81
+  offset: 0, 0
+  index: -1
+tx/l9
+  rotate: false
+  xy: 202, 32
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1

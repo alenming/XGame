@@ -1,0 +1,55 @@
+
+11173.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/FlashB
+  rotate: false
+  xy: 2, 8
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+tx/a3
+  rotate: false
+  xy: 2, 149
+  size: 187, 87
+  orig: 187, 87
+  offset: 0, 0
+  index: -1
+tx/a4
+  rotate: false
+  xy: 403, 216
+  size: 96, 20
+  orig: 96, 20
+  offset: 0, 0
+  index: -1
+tx/a5
+  rotate: false
+  xy: 2, 20
+  size: 132, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+tx/a6
+  rotate: false
+  xy: 239, 49
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+tx/a7
+  rotate: false
+  xy: 136, 2
+  size: 101, 145
+  orig: 101, 145
+  offset: 0, 0
+  index: -1
+tx/l8
+  rotate: false
+  xy: 191, 173
+  size: 210, 63
+  orig: 254, 70
+  offset: 14, 7
+  index: -1

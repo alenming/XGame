@@ -1,0 +1,664 @@
+
+41008.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06/01
+  rotate: false
+  xy: 423, 415
+  size: 201, 95
+  orig: 216, 118
+  offset: 6, 7
+  index: -1
+06/02
+  rotate: false
+  xy: 609, 315
+  size: 188, 97
+  orig: 216, 118
+  offset: 12, 8
+  index: -1
+06/03
+  rotate: false
+  xy: 799, 312
+  size: 187, 98
+  orig: 216, 118
+  offset: 17, 7
+  index: -1
+06/04
+  rotate: false
+  xy: 415, 311
+  size: 192, 102
+  orig: 216, 118
+  offset: 9, 5
+  index: -1
+06/05
+  rotate: false
+  xy: 2, 54
+  size: 198, 104
+  orig: 216, 118
+  offset: 9, 4
+  index: -1
+06/06
+  rotate: false
+  xy: 2, 303
+  size: 196, 108
+  orig: 216, 118
+  offset: 12, 2
+  index: -1
+06/07
+  rotate: false
+  xy: 828, 412
+  size: 194, 98
+  orig: 216, 118
+  offset: 15, 11
+  index: -1
+06/08
+  rotate: false
+  xy: 626, 414
+  size: 200, 96
+  orig: 216, 118
+  offset: 11, 12
+  index: -1
+06/09
+  rotate: false
+  xy: 2, 413
+  size: 208, 97
+  orig: 216, 118
+  offset: 3, 10
+  index: -1
+06/10
+  rotate: false
+  xy: 212, 416
+  size: 209, 94
+  orig: 216, 118
+  offset: 4, 7
+  index: -1
+06/11
+  rotate: false
+  xy: 212, 322
+  size: 201, 92
+  orig: 216, 118
+  offset: 6, 10
+  index: -1
+06/12
+  rotate: false
+  xy: 391, 215
+  size: 188, 94
+  orig: 216, 118
+  offset: 12, 11
+  index: -1
+06/13
+  rotate: false
+  xy: 202, 38
+  size: 176, 93
+  orig: 216, 118
+  offset: 23, 12
+  index: -1
+06/14
+  rotate: false
+  xy: 389, 118
+  size: 182, 95
+  orig: 216, 118
+  offset: 19, 12
+  index: -1
+06/15
+  rotate: false
+  xy: 202, 133
+  size: 185, 94
+  orig: 216, 118
+  offset: 16, 12
+  index: -1
+06/16
+  rotate: false
+  xy: 200, 229
+  size: 189, 91
+  orig: 216, 118
+  offset: 13, 11
+  index: -1
+06/17
+  rotate: false
+  xy: 609, 219
+  size: 170, 94
+  orig: 216, 118
+  offset: 26, 11
+  index: -1
+attack1 start_likui_l_Ax
+  rotate: false
+  xy: 573, 118
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+attack1 start_likui_l_forearm
+  rotate: true
+  xy: 963, 158
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+attack1 start_likui_l_hand
+  rotate: false
+  xy: 769, 59
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+attack1 start_likui_l_shank
+  rotate: false
+  xy: 956, 134
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+attack1 start_likui_l_upperArm
+  rotate: true
+  xy: 700, 119
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_Finger
+  rotate: false
+  xy: 847, 24
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_forearm
+  rotate: false
+  xy: 980, 99
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_hand
+  rotate: false
+  xy: 769, 41
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_oxter
+  rotate: true
+  xy: 993, 149
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_shank
+  rotate: false
+  xy: 573, 195
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+attack1 start_likui_r_upperArm
+  rotate: false
+  xy: 346, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+attack2 fin_likui_R_hand
+  rotate: false
+  xy: 781, 195
+  size: 94, 43
+  orig: 94, 43
+  offset: 0, 0
+  index: -1
+attack2 fin_likui_l_hand
+  rotate: false
+  xy: 2, 16
+  size: 149, 36
+  orig: 149, 36
+  offset: 0, 0
+  index: -1
+attack2 start_likui_l_Finger
+  rotate: true
+  xy: 183, 39
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+attack2 start_likui_l_forearm
+  rotate: false
+  xy: 877, 167
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+attack2 start_likui_l_hand
+  rotate: false
+  xy: 743, 52
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+attack2 start_likui_l_upperArm
+  rotate: false
+  xy: 307, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_Ax
+  rotate: true
+  xy: 581, 226
+  size: 83, 26
+  orig: 83, 26
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_Finger
+  rotate: true
+  xy: 780, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_armback
+  rotate: false
+  xy: 713, 41
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_forearm
+  rotate: false
+  xy: 838, 170
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_hand
+  rotate: true
+  xy: 732, 12
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+attack2 start_likui_r_upperArm
+  rotate: true
+  xy: 750, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 666, 59
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 167, 160
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+l3
+  rotate: true
+  xy: 380, 2
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 781, 240
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+l7
+  rotate: true
+  xy: 498, 15
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+likui_anger
+  rotate: false
+  xy: 225, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+likui_armor side 1 back
+  rotate: true
+  xy: 740, 125
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+likui_armor side 1 front
+  rotate: false
+  xy: 153, 2
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+likui_armor side 2
+  rotate: false
+  xy: 972, 251
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+likui_body
+  rotate: false
+  xy: 690, 156
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+likui_bun back
+  rotate: true
+  xy: 981, 220
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+likui_bun front
+  rotate: false
+  xy: 794, 98
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+likui_fringe side back
+  rotate: false
+  xy: 643, 156
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+likui_fringe side front
+  rotate: false
+  xy: 666, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+likui_fringe top
+  rotate: true
+  xy: 735, 164
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+likui_head
+  rotate: false
+  xy: 600, 46
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+likui_l_Ax
+  rotate: false
+  xy: 877, 248
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+likui_l_armback
+  rotate: false
+  xy: 794, 50
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+likui_l_forearm
+  rotate: false
+  xy: 794, 69
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+likui_l_hand
+  rotate: true
+  xy: 826, 41
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+likui_l_shank
+  rotate: true
+  xy: 791, 135
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+likui_l_thigh
+  rotate: true
+  xy: 600, 2
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+likui_l_upperArm
+  rotate: false
+  xy: 947, 101
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+likui_oxter
+  rotate: true
+  xy: 750, 25
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+likui_pain
+  rotate: false
+  xy: 922, 160
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+likui_r_Finger
+  rotate: true
+  xy: 769, 25
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+likui_r_armback
+  rotate: false
+  xy: 612, 197
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+likui_r_ax
+  rotate: false
+  xy: 877, 194
+  size: 102, 52
+  orig: 102, 52
+  offset: 0, 0
+  index: -1
+likui_r_forearm
+  rotate: false
+  xy: 834, 97
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+likui_r_hand
+  rotate: true
+  xy: 824, 22
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+likui_r_shank
+  rotate: false
+  xy: 713, 66
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+likui_r_thigh
+  rotate: true
+  xy: 643, 118
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+likui_r_upperArm
+  rotate: false
+  xy: 993, 164
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+likui_sad
+  rotate: true
+  xy: 840, 129
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+likui_sad close eye
+  rotate: false
+  xy: 874, 133
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+likui_shirt back
+  rotate: false
+  xy: 705, 13
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+likui_shirt front
+  rotate: false
+  xy: 875, 99
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+likui_symblo
+  rotate: false
+  xy: 819, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+likui_wait
+  rotate: false
+  xy: 266, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+likui_wait close eye
+  rotate: false
+  xy: 183, 2
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+likui_wild
+  rotate: false
+  xy: 833, 63
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+maelstrom back_likui_Ax
+  rotate: true
+  xy: 988, 304
+  size: 106, 24
+  orig: 106, 24
+  offset: 0, 0
+  index: -1
+maelstrom_likui_ax
+  rotate: true
+  xy: 167, 193
+  size: 108, 28
+  orig: 108, 28
+  offset: 0, 0
+  index: -1
+maelstrom_likui_l_armback
+  rotate: false
+  xy: 990, 124
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+maelstrom_likui_l_forearm
+  rotate: true
+  xy: 769, 79
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+maelstrom_likui_l_hand
+  rotate: false
+  xy: 794, 29
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+maelstrom_likui_l_shank
+  rotate: false
+  xy: 743, 72
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+maelstrom_likui_l_upperarm
+  rotate: false
+  xy: 981, 198
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+maelstrom_likui_mohu
+  rotate: false
+  xy: 2, 160
+  size: 163, 141
+  orig: 163, 141
+  offset: 0, 0
+  index: -1
+maelstrom_likui_r_finger
+  rotate: false
+  xy: 851, 41
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+maelstrom_likui_r_hand
+  rotate: true
+  xy: 801, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+maelstrom_likui_r_shank
+  rotate: false
+  xy: 778, 168
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+maelstrom_likui_shirt
+  rotate: false
+  xy: 916, 101
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+maelstrom_likui_shirt back
+  rotate: false
+  xy: 915, 137
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1

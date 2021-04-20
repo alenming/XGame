@@ -1,0 +1,76 @@
+
+11111.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/atks/1/01
+  rotate: false
+  xy: 532, 354
+  size: 456, 98
+  orig: 535, 124
+  offset: 0, 8
+  index: -1
+tx/atks/1/02
+  rotate: false
+  xy: 2, 107
+  size: 475, 124
+  orig: 535, 124
+  offset: 50, 0
+  index: -1
+tx/atks/1/03
+  rotate: false
+  xy: 2, 338
+  size: 528, 114
+  orig: 535, 124
+  offset: 7, 9
+  index: -1
+tx/atks/1/04
+  rotate: false
+  xy: 2, 233
+  size: 535, 103
+  orig: 535, 124
+  offset: 0, 10
+  index: -1
+tx/atks/1/05
+  rotate: false
+  xy: 2, 2
+  size: 338, 103
+  orig: 535, 124
+  offset: 78, 9
+  index: -1
+tx/atks/1/06
+  rotate: false
+  xy: 539, 250
+  size: 327, 102
+  orig: 535, 124
+  offset: 84, 9
+  index: -1
+tx/atks/1/07
+  rotate: false
+  xy: 479, 53
+  size: 288, 97
+  orig: 535, 124
+  offset: 115, 10
+  index: -1
+tx/atks/1/08
+  rotate: false
+  xy: 539, 152
+  size: 290, 96
+  orig: 535, 124
+  offset: 116, 13
+  index: -1
+tx/shadow5
+  rotate: true
+  xy: 868, 157
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+tx/shadow6
+  rotate: false
+  xy: 769, 29
+  size: 220, 121
+  orig: 220, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+11151.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 2
+  size: 220, 217
+  orig: 220, 217
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 224, 4
+  size: 221, 215
+  orig: 221, 217
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+11132.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongsunsheng_a1
+  rotate: false
+  xy: 2, 204
+  size: 99, 306
+  orig: 99, 306
+  offset: 0, 0
+  index: -1
+gongsunsheng_a2
+  rotate: false
+  xy: 84, 2
+  size: 238, 86
+  orig: 238, 86
+  offset: 0, 0
+  index: -1
+gongsunsheng_a3
+  rotate: false
+  xy: 103, 221
+  size: 251, 90
+  orig: 251, 90
+  offset: 0, 0
+  index: -1
+gongsunsheng_a4
+  rotate: false
+  xy: 103, 313
+  size: 261, 95
+  orig: 261, 95
+  offset: 0, 0
+  index: -1
+gongsunsheng_a5
+  rotate: false
+  xy: 103, 410
+  size: 264, 100
+  orig: 264, 100
+  offset: 0, 0
+  index: -1
+gongsunsheng_a6
+  rotate: true
+  xy: 378, 242
+  size: 268, 102
+  orig: 268, 102
+  offset: 0, 0
+  index: -1
+gongsunsheng_as1
+  rotate: true
+  xy: 84, 90
+  size: 112, 270
+  orig: 112, 270
+  offset: 0, 0
+  index: -1
+gongsunsheng_as2
+  rotate: false
+  xy: 378, 9
+  size: 99, 231
+  orig: 99, 231
+  offset: 0, 0
+  index: -1
+gongsunsheng_as3
+  rotate: false
+  xy: 2, 14
+  size: 80, 188
+  orig: 80, 188
+  offset: 0, 0
+  index: -1
+gongsunsheng_as4
+  rotate: false
+  xy: 324, 7
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1

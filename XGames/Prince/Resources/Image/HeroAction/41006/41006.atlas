@@ -1,0 +1,307 @@
+
+41006.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wusong_Belt
+  rotate: false
+  xy: 792, 88
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+wusong_b_skirt
+  rotate: false
+  xy: 337, 2
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+wusong_beads1
+  rotate: false
+  xy: 934, 66
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+wusong_beads2
+  rotate: false
+  xy: 622, 54
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+wusong_beads3
+  rotate: false
+  xy: 603, 52
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+wusong_beads4
+  rotate: false
+  xy: 641, 55
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+wusong_beads5
+  rotate: false
+  xy: 695, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+wusong_beads6
+  rotate: true
+  xy: 676, 55
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+wusong_beads7
+  rotate: false
+  xy: 659, 55
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+wusong_cap
+  rotate: true
+  xy: 578, 15
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+wusong_cemian_Belt
+  rotate: true
+  xy: 472, 2
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+wusong_cemian_eye_attcak
+  rotate: false
+  xy: 887, 54
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+wusong_cemian_eye_dead
+  rotate: false
+  xy: 991, 73
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+wusong_cemian_eye_hit
+  rotate: true
+  xy: 961, 77
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+wusong_cemian_eye_skill
+  rotate: false
+  xy: 829, 53
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+wusong_cemian_hair
+  rotate: true
+  xy: 961, 99
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+wusong_cemian_head
+  rotate: false
+  xy: 245, 41
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+wusong_cemian_l_forearm
+  rotate: false
+  xy: 425, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+wusong_cemian_l_hand
+  rotate: false
+  xy: 909, 60
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+wusong_cemian_l_upperArm
+  rotate: false
+  xy: 507, 14
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+wusong_cemian_r_hand
+  rotate: false
+  xy: 458, 89
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+wusong_cemian_r_upperArm
+  rotate: false
+  xy: 549, 52
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+wusong_cemian_spine
+  rotate: false
+  xy: 399, 53
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+wusong_eye_attack
+  rotate: false
+  xy: 458, 53
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+wusong_eye_closed
+  rotate: false
+  xy: 792, 54
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+wusong_eye_stand
+  rotate: false
+  xy: 540, 17
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+wusong_hair1
+  rotate: true
+  xy: 857, 86
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+wusong_hair2
+  rotate: true
+  xy: 285, 14
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+wusong_head
+  rotate: false
+  xy: 150, 43
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+wusong_l_calf
+  rotate: true
+  xy: 497, 54
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+wusong_l_hand
+  rotate: true
+  xy: 237, 2
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+wusong_l_skirt
+  rotate: false
+  xy: 187, 4
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+wusong_l_thigh
+  rotate: true
+  xy: 618, 74
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+wusong_l_upperArm
+  rotate: true
+  xy: 850, 52
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+wusong_r_Finger
+  rotate: true
+  xy: 734, 76
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+wusong_r_calf
+  rotate: true
+  xy: 914, 88
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+wusong_r_forearm
+  rotate: true
+  xy: 137, 2
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+wusong_r_hand
+  rotate: true
+  xy: 676, 73
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+wusong_r_skirt
+  rotate: true
+  xy: 2, 2
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+wusong_r_thigh
+  rotate: false
+  xy: 50, 9
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+wusong_r_upperArm
+  rotate: true
+  xy: 549, 79
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+wusong_spine
+  rotate: false
+  xy: 337, 50
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+wusong_weapon
+  rotate: false
+  xy: 2, 70
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1

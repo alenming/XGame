@@ -1,0 +1,2 @@
+id,move,reTime,trigger,vipBuy,moveBuy,vipAuto,moveSay,resID
+10001,20,300,"1,25|2,50|3,15|4,10","0,1|1,2|3,3|5,4|","1,20|2,30|3,50|4,80",3,点击屏幕任意位置继续向前探索,-1

@@ -1,0 +1,3 @@
+baseurl=http://www.loveota.com  ;域名
+username=zhanchenhw               ;用户名
+password=zc0622                     ;密码

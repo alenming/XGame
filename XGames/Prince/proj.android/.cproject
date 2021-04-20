@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="0.1230402123">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.1230402123" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="0.1230402123" name="Debug" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.1230402123." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.1911072326" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.1911072326.2087917918" name=""/>
+							<builder arguments="${ProjDirPath}/build_native.py -b debug" buildPath="${ProjDirPath}" cleanBuildTarget="-n clean" command="python" enabledIncrementalBuild="true" id="org.eclipse.cdt.build.core.settings.default.builder.1038735572" incrementalBuildTarget="" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="org.eclipse.cdt.build.core.settings.default.builder">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name=""/>
+								</outputEntries>
+							</builder>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.547532631" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1481118451" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.990682174" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.387417389" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.992559344" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.429561268" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1008860290" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/platforms/android-18/arch-arm/usr/include"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/include"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/2d&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/physics&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/base&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/math&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/ui&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/network&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/audio/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/editor-support&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/extensions&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/chipmunk/include/chipmunk&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/curl/include/android/curl&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/unzip&quot;"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1728671637" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.788524757" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.795443271" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.315092538" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.706119994" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1846971482" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<folderInfo id="0.1230402123.992025683" name="/" resourcePath="src">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.698595587" name="No ToolChain" superClass="org.eclipse.cdt.build.core.prefbase.toolchain" unusedChildren="">
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.1087919998" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs.547532631"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.299152325" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder.1481118451">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.812805480" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1034644153" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder.1481118451">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.869053650" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/platforms/android-18/arch-arm/usr/include"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/include"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/2d&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/physics&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/base&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/math&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/ui&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/network&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/audio/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/editor-support&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/extensions&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/chipmunk/include/chipmunk&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/curl/include/android/curl&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/unzip&quot;"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1987672289" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.210118910" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder.1481118451">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1391426755" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="Classes|cocos2d" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Classes"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="cocos2d"/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="0.1230402123.1898999492">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.1230402123.1898999492" moduleId="org.eclipse.cdt.core.settings" name="Release">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="0.1230402123.1898999492" name="Release" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.1230402123.1898999492." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.710636745" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.710636745.1888902699" name=""/>
+							<builder arguments="${ProjDirPath}/build_native.py -b release" autoBuildTarget="all" buildPath="${ProjDirPath}" cleanBuildTarget="-n clean" command="python" enableAutoBuild="false" enableCleanBuild="true" enabledIncrementalBuild="true" id="org.eclipse.cdt.build.core.settings.default.builder.1464785477" incrementalBuildTarget="" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" parallelBuildOn="false" superClass="org.eclipse.cdt.build.core.settings.default.builder">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name=""/>
+								</outputEntries>
+							</builder>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.1652366571" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.999391684" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.977865479" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1843281888" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.679386271" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.700703232" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.1650130193" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/platforms/android-18/arch-arm/usr/include"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/include"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/2d&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/physics&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/base&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/math&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/ui&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/network&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/audio/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/editor-support&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/extensions&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/chipmunk/include/chipmunk&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/curl/include/android/curl&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/unzip&quot;"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.1534136495" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1637939343" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1572124840" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.370631224" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+								</option>
+								<option id="org.eclipse.cdt.build.core.settings.holder.symbols.87587391" name="Symbols" superClass="org.eclipse.cdt.build.core.settings.holder.symbols" valueType="definedSymbols">
+									<listOptionValue builtIn="false" value="CC_TARGET_PLATFORM=CC_PLATFORM_ANDROID"/>
+									<listOptionValue builtIn="false" value="CC_DLL"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.2139323943" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<folderInfo id="0.1230402123.1898999492.src" name="/" resourcePath="src">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.840664603" name="No ToolChain" superClass="org.eclipse.cdt.build.core.prefbase.toolchain" unusedChildren="">
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.880558862" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs.1652366571"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1644161781" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder.999391684">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1988920403" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1541311372" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder.999391684">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.105627690" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/platforms/android-18/arch-arm/usr/include"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/include"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/2d&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/physics&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/base&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/math&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/ui&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/network&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/audio/include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/cocos/editor-support&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/extensions&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/chipmunk/include/chipmunk&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/curl/include/android/curl&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../cocos2d-x-3.2/external/unzip&quot;"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.427460218" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.621672373" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder.999391684">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1240062250" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="Classes|cocos2d" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Classes"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="cocos2d"/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.1230402123">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="HelloCpp.null.31159645" name="HelloCpp"/>
+	</storageModule>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/Prince"/>
+		</configuration>
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/Prince"/>
+		</configuration>
+	</storageModule>
+</cproject>

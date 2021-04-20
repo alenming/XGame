@@ -1,0 +1,433 @@
+
+41013.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E-death
+  rotate: true
+  xy: 988, 360
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+E-pain
+  rotate: false
+  xy: 916, 359
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+E-pain close eye
+  rotate: true
+  xy: 988, 325
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+E-smile1
+  rotate: false
+  xy: 832, 304
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+E-smile2
+  rotate: true
+  xy: 991, 476
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+E-wait
+  rotate: false
+  xy: 952, 359
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+E-wait close eye
+  rotate: false
+  xy: 872, 321
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+E-wave1
+  rotate: false
+  xy: 714, 225
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+E-wave2
+  rotate: false
+  xy: 762, 259
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Eff-smile
+  rotate: false
+  xy: 731, 257
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+L arm1 back
+  rotate: false
+  xy: 533, 2
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+L arm1 front
+  rotate: false
+  xy: 872, 355
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+L arm2
+  rotate: false
+  xy: 807, 298
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 626, 188
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+L hand smile
+  rotate: true
+  xy: 301, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+M hair back
+  rotate: false
+  xy: 339, 23
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 651, 187
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+R arm point
+  rotate: true
+  xy: 714, 255
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+R arm2
+  rotate: true
+  xy: 991, 395
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+R front hair
+  rotate: false
+  xy: 626, 206
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+R hair back
+  rotate: false
+  xy: 582, 192
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+R hand back
+  rotate: true
+  xy: 391, 130
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+R hand point back
+  rotate: true
+  xy: 635, 144
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+R hand point front
+  rotate: false
+  xy: 651, 170
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 635, 163
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+Tail hair back
+  rotate: false
+  xy: 344, 130
+  size: 45, 112
+  orig: 45, 112
+  offset: 0, 0
+  index: -1
+Un-cloth L
+  rotate: false
+  xy: 411, 13
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Un-cloth L wave
+  rotate: true
+  xy: 576, 36
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+Un-cloth M1
+  rotate: false
+  xy: 614, 280
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+Un-cloth M2
+  rotate: false
+  xy: 556, 117
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+Un-cloth M3
+  rotate: true
+  xy: 384, 246
+  size: 104, 48
+  orig: 104, 48
+  offset: 0, 0
+  index: -1
+Un-cloth M3 wave
+  rotate: true
+  xy: 534, 261
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+Un-cloth R
+  rotate: true
+  xy: 576, 2
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+Un-cloth R wave
+  rotate: false
+  xy: 669, 215
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+a1
+  rotate: true
+  xy: 462, 188
+  size: 71, 118
+  orig: 71, 118
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 738, 286
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 411, 97
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+bady wave
+  rotate: false
+  xy: 533, 28
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 991, 422
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: true
+  xy: 467, 14
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 745, 340
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 668, 289
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+head side
+  rotate: true
+  xy: 462, 117
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+mcast1
+  rotate: true
+  xy: 467, 26
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+mcast2
+  rotate: true
+  xy: 391, 148
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+mcast3
+  rotate: false
+  xy: 236, 134
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+mcast4
+  rotate: true
+  xy: 261, 244
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1
+mcast5
+  rotate: false
+  xy: 638, 376
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+mcast6
+  rotate: false
+  xy: 533, 373
+  size: 103, 137
+  orig: 103, 137
+  offset: 0, 0
+  index: -1
+scast1
+  rotate: false
+  xy: 236, 32
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+scast2
+  rotate: false
+  xy: 2, 255
+  size: 257, 255
+  orig: 257, 255
+  offset: 0, 0
+  index: -1
+scast3
+  rotate: false
+  xy: 2, 26
+  size: 232, 227
+  orig: 232, 227
+  offset: 0, 0
+  index: -1
+scast4
+  rotate: true
+  xy: 868, 395
+  size: 115, 121
+  orig: 115, 121
+  offset: 0, 0
+  index: -1
+scast5
+  rotate: false
+  xy: 261, 352
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+scast6
+  rotate: false
+  xy: 745, 392
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+scast7
+  rotate: true
+  xy: 434, 261
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+scast8
+  rotate: false
+  xy: 421, 363
+  size: 110, 147
+  orig: 110, 147
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 788, 259
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+weapon1 point
+  rotate: false
+  xy: 2, 11
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 236, 2
+  size: 28, 63
+  orig: 28, 63
+  offset: 0, 0
+  index: -1
+weapon2 wave
+  rotate: false
+  xy: 833, 338
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1

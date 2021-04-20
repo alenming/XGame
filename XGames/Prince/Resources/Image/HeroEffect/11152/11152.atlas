@@ -1,0 +1,27 @@
+
+11152.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: false
+  xy: 2, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 2, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+as3
+  rotate: true
+  xy: 36, 29
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1

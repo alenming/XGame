@@ -1,0 +1,62 @@
+
+11005.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/1027/1/01
+  rotate: true
+  xy: 334, 216
+  size: 135, 155
+  orig: 135, 155
+  offset: 0, 0
+  index: -1
+tx/1027/1/02
+  rotate: true
+  xy: 169, 207
+  size: 128, 162
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+tx/1027/1/03
+  rotate: true
+  xy: 167, 73
+  size: 132, 160
+  orig: 132, 160
+  offset: 0, 0
+  index: -1
+tx/1027/1/04
+  rotate: true
+  xy: 334, 353
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1
+tx/1027/2/01
+  rotate: false
+  xy: 2, 161
+  size: 163, 158
+  orig: 163, 158
+  offset: 0, 0
+  index: -1
+tx/1027/2/02
+  rotate: false
+  xy: 169, 337
+  size: 163, 148
+  orig: 163, 148
+  offset: 0, 0
+  index: -1
+tx/1027/2/03
+  rotate: false
+  xy: 2, 321
+  size: 165, 164
+  orig: 165, 164
+  offset: 0, 0
+  index: -1
+tx/1027/2/04
+  rotate: false
+  xy: 2, 2
+  size: 153, 157
+  orig: 153, 157
+  offset: 0, 0
+  index: -1

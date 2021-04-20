@@ -1,0 +1,55 @@
+
+11992.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoZa/0
+  rotate: true
+  xy: 257, 2
+  size: 116, 121
+  orig: 135, 149
+  offset: 10, 11
+  index: -1
+baoZa/1
+  rotate: true
+  xy: 130, 3
+  size: 115, 125
+  orig: 135, 149
+  offset: 7, 9
+  index: -1
+baoZa/2
+  rotate: true
+  xy: 2, 3
+  size: 115, 126
+  orig: 135, 149
+  offset: 6, 9
+  index: -1
+baoZa/3
+  rotate: true
+  xy: 380, 8
+  size: 110, 125
+  orig: 135, 149
+  offset: 8, 11
+  index: -1
+baoZa/4
+  rotate: true
+  xy: 507, 21
+  size: 97, 115
+  orig: 135, 149
+  offset: 17, 20
+  index: -1
+baoZa/5
+  rotate: false
+  xy: 624, 57
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+baoZa/6
+  rotate: false
+  xy: 695, 55
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

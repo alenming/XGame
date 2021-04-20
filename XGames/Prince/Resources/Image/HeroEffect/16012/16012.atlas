@@ -1,0 +1,55 @@
+
+16012.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+manuskl_l_forearm
+  rotate: false
+  xy: 2, 2
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+tx/manuSkl/01
+  rotate: false
+  xy: 2, 293
+  size: 322, 217
+  orig: 322, 223
+  offset: 0, 6
+  index: -1
+tx/manuSkl/02
+  rotate: false
+  xy: 2, 78
+  size: 321, 213
+  orig: 322, 223
+  offset: 0, 0
+  index: -1
+tx/manuSkl/03
+  rotate: false
+  xy: 326, 305
+  size: 187, 205
+  orig: 322, 223
+  offset: 134, 0
+  index: -1
+tx/manuSkl/04
+  rotate: false
+  xy: 515, 338
+  size: 157, 172
+  orig: 322, 223
+  offset: 164, 0
+  index: -1
+tx/manuSkl/05
+  rotate: false
+  xy: 674, 340
+  size: 149, 170
+  orig: 322, 223
+  offset: 173, 2
+  index: -1
+tx/manuSkl/06
+  rotate: false
+  xy: 825, 419
+  size: 123, 91
+  orig: 322, 223
+  offset: 181, 22
+  index: -1

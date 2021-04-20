@@ -1,0 +1,349 @@
+
+41009.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruanxiaoqi__cemian_anger
+  rotate: true
+  xy: 111, 38
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_attack
+  rotate: false
+  xy: 102, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_hair1
+  rotate: false
+  xy: 705, 187
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_hair2
+  rotate: true
+  xy: 664, 146
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_hand
+  rotate: false
+  xy: 333, 176
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_l_forearm
+  rotate: false
+  xy: 297, 133
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_l_hand
+  rotate: false
+  xy: 825, 162
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_l_upperArm
+  rotate: true
+  xy: 119, 5
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_r_forearm
+  rotate: false
+  xy: 333, 147
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_r_hand
+  rotate: true
+  xy: 990, 188
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_r_upperArm
+  rotate: false
+  xy: 118, 131
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_spine
+  rotate: false
+  xy: 118, 155
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+ruanxiaoqi__cemian_suolian
+  rotate: false
+  xy: 151, 105
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_hair1
+  rotate: false
+  xy: 625, 182
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_hair2
+  rotate: false
+  xy: 868, 187
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_hair3
+  rotate: false
+  xy: 204, 118
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head
+  rotate: false
+  xy: 432, 176
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_attack
+  rotate: false
+  xy: 111, 97
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_closed
+  rotate: false
+  xy: 42, 2
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_death
+  rotate: false
+  xy: 163, 125
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_hit
+  rotate: false
+  xy: 951, 185
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_hitclosed
+  rotate: false
+  xy: 262, 124
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_head_stand
+  rotate: false
+  xy: 2, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_houyi1
+  rotate: false
+  xy: 762, 187
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_houyi2
+  rotate: true
+  xy: 388, 137
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_calf
+  rotate: true
+  xy: 620, 144
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_foot
+  rotate: true
+  xy: 753, 161
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_forearm
+  rotate: false
+  xy: 925, 179
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_hand
+  rotate: false
+  xy: 163, 101
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_thigh
+  rotate: false
+  xy: 486, 137
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_l_upperArm
+  rotate: true
+  xy: 111, 56
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_lingdang
+  rotate: true
+  xy: 803, 161
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_lingdang2
+  rotate: false
+  xy: 333, 128
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_qianjin
+  rotate: false
+  xy: 532, 138
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_calf
+  rotate: true
+  xy: 438, 137
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_foot
+  rotate: false
+  xy: 576, 140
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_forearm
+  rotate: false
+  xy: 952, 215
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_hand
+  rotate: true
+  xy: 80, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_thigh
+  rotate: true
+  xy: 709, 153
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_r_upperArm
+  rotate: true
+  xy: 887, 187
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_spine
+  rotate: false
+  xy: 2, 33
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_suolian
+  rotate: false
+  xy: 847, 162
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_weapon
+  rotate: true
+  xy: 809, 229
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+ruanxiaoqi_yaodai
+  rotate: false
+  xy: 890, 219
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+tx/l1
+  rotate: true
+  xy: 809, 182
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+tx/l2
+  rotate: false
+  xy: 229, 121
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/l3
+  rotate: false
+  xy: 2, 138
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+tx/l4
+  rotate: false
+  xy: 529, 184
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+tx/l7
+  rotate: false
+  xy: 230, 154
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1

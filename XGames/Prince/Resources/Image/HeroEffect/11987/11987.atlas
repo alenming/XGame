@@ -1,0 +1,90 @@
+
+11987.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l3
+  rotate: false
+  xy: 516, 143
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+s00
+  rotate: false
+  xy: 399, 72
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+sk21
+  rotate: false
+  xy: 206, 2
+  size: 158, 79
+  orig: 158, 79
+  offset: 0, 0
+  index: -1
+sk31
+  rotate: true
+  xy: 399, 135
+  size: 134, 115
+  orig: 134, 115
+  offset: 0, 0
+  index: -1
+sk32
+  rotate: false
+  xy: 211, 83
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+sk33
+  rotate: false
+  xy: 817, 303
+  size: 193, 206
+  orig: 193, 206
+  offset: 0, 0
+  index: -1
+sk34
+  rotate: false
+  xy: 619, 292
+  size: 196, 217
+  orig: 196, 217
+  offset: 0, 0
+  index: -1
+sk35
+  rotate: false
+  xy: 413, 280
+  size: 204, 229
+  orig: 204, 229
+  offset: 0, 0
+  index: -1
+sk36
+  rotate: false
+  xy: 211, 271
+  size: 200, 238
+  orig: 200, 238
+  offset: 0, 0
+  index: -1
+sk37
+  rotate: false
+  xy: 2, 5
+  size: 202, 247
+  orig: 202, 247
+  offset: 0, 0
+  index: -1
+sk38
+  rotate: false
+  xy: 2, 254
+  size: 207, 255
+  orig: 207, 255
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 516, 210
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1

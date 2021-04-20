@@ -1,0 +1,55 @@
+
+11010.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C1
+  rotate: true
+  xy: 2, 2
+  size: 54, 64
+  orig: 140, 124
+  offset: 38, 29
+  index: -1
+C2
+  rotate: true
+  xy: 664, 48
+  size: 72, 85
+  orig: 140, 124
+  offset: 24, 18
+  index: -1
+C3
+  rotate: true
+  xy: 563, 40
+  size: 80, 99
+  orig: 140, 124
+  offset: 15, 15
+  index: -1
+C4
+  rotate: true
+  xy: 449, 27
+  size: 93, 112
+  orig: 140, 124
+  offset: 7, 8
+  index: -1
+C5
+  rotate: true
+  xy: 331, 26
+  size: 94, 116
+  orig: 140, 124
+  offset: 5, 6
+  index: -1
+C6
+  rotate: true
+  xy: 212, 24
+  size: 96, 117
+  orig: 140, 124
+  offset: 3, 5
+  index: -1
+ci2
+  rotate: false
+  xy: 2, 58
+  size: 208, 62
+  orig: 208, 62
+  offset: 0, 0
+  index: -1

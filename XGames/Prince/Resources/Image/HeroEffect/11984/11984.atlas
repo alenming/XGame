@@ -1,0 +1,41 @@
+
+11984.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunhit1
+  rotate: true
+  xy: 159, 62
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+gunhit2
+  rotate: true
+  xy: 70, 2
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+gunhit3
+  rotate: true
+  xy: 159, 19
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+gunhit4
+  rotate: false
+  xy: 2, 5
+  size: 66, 121
+  orig: 66, 121
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 70, 58
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+19001.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/hit/shouji/1/01
+  rotate: true
+  xy: 270, 42
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+tx/hit/shouji/1/02
+  rotate: true
+  xy: 2, 2
+  size: 15, 78
+  orig: 17, 78
+  offset: 1, 0
+  index: -1
+tx/hit/shouji/1/03
+  rotate: false
+  xy: 688, 104
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+tx/hit/shouji/2/01
+  rotate: true
+  xy: 688, 152
+  size: 82, 147
+  orig: 128, 147
+  offset: 2, 0
+  index: -1
+tx/hit/shouji/2/02
+  rotate: false
+  xy: 432, 87
+  size: 126, 147
+  orig: 128, 147
+  offset: 2, 0
+  index: -1
+tx/hit/shouji/2/03
+  rotate: false
+  xy: 560, 89
+  size: 126, 145
+  orig: 128, 147
+  offset: 1, 1
+  index: -1
+tx/hit/shouji/2/04
+  rotate: false
+  xy: 837, 152
+  size: 86, 82
+  orig: 128, 147
+  offset: 42, 16
+  index: -1
+tx/hit/shouji/3/01
+  rotate: false
+  xy: 270, 80
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+tx/hit/shouji/3/02
+  rotate: false
+  xy: 925, 165
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+tx/hit/shouji/3/03
+  rotate: false
+  xy: 2, 19
+  size: 266, 215
+  orig: 270, 217
+  offset: 0, 0
+  index: -1

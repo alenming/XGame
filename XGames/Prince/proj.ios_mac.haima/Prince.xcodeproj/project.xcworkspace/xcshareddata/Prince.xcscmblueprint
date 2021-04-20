@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e5509313-aa06-e648-88ab-c6b5c1c12701++8108",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++7565" : {
+
+    },
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++8108" : {
+
+    },
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++321" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++7565" : 0,
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++8108" : 0,
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++321" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6AD5D77F-1002-4BF3-BC22-05D477FEEC0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++7565" : "trunk\/",
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++8108" : "20160624_180\/",
+    "e5509313-aa06-e648-88ab-c6b5c1c12701++321" : "20160418\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Prince",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XGames\/Prince\/proj.ios_mac.haima\/Prince.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.11.11\/svn\/zhanchen",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e5509313-aa06-e648-88ab-c6b5c1c12701++321"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.11.11\/svn\/zhanchen",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e5509313-aa06-e648-88ab-c6b5c1c12701++7565"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.11.11\/svn\/zhanchen",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e5509313-aa06-e648-88ab-c6b5c1c12701++8108"
+    }
+  ]
+}

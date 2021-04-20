@@ -1,0 +1,293 @@
+
+41005.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huyanzhuo_cape
+  rotate: false
+  xy: 2, 118
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+huyanzhuo_cape2
+  rotate: true
+  xy: 417, 156
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+huyanzhuo_cemian_Armor
+  rotate: false
+  xy: 470, 51
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+huyanzhuo_cemian_hair
+  rotate: false
+  xy: 254, 154
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+huyanzhuo_cemian_head
+  rotate: true
+  xy: 544, 186
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+huyanzhuo_cemian_l_hand
+  rotate: true
+  xy: 253, 48
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+huyanzhuo_cemian_r_hand
+  rotate: true
+  xy: 120, 25
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+huyanzhuo_ceshen_spine
+  rotate: false
+  xy: 906, 184
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+huyanzhuo_cloth
+  rotate: true
+  xy: 338, 149
+  size: 28, 77
+  orig: 28, 77
+  offset: 0, 0
+  index: -1
+huyanzhuo_cloth2
+  rotate: false
+  xy: 156, 42
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+huyanzhuo_ditou_head
+  rotate: true
+  xy: 444, 178
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1
+huyanzhuo_eye_attack
+  rotate: false
+  xy: 392, 88
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+huyanzhuo_eye_closed
+  rotate: false
+  xy: 437, 121
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+huyanzhuo_eye_hit
+  rotate: false
+  xy: 344, 88
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+huyanzhuo_eye_stand
+  rotate: false
+  xy: 485, 121
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+huyanzhuo_hair
+  rotate: true
+  xy: 338, 179
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+huyanzhuo_head
+  rotate: true
+  xy: 743, 178
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_Armor
+  rotate: false
+  xy: 401, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_Finger
+  rotate: false
+  xy: 455, 19
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_calf
+  rotate: true
+  xy: 283, 120
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_clavicle
+  rotate: false
+  xy: 455, 3
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_forearm
+  rotate: true
+  xy: 359, 2
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_hand
+  rotate: false
+  xy: 513, 88
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_thigh
+  rotate: false
+  xy: 966, 187
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+huyanzhuo_l_upperArm
+  rotate: false
+  xy: 344, 49
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_Armor
+  rotate: true
+  xy: 221, 2
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_Armor2
+  rotate: false
+  xy: 202, 51
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_Finger
+  rotate: false
+  xy: 482, 25
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_calf
+  rotate: true
+  xy: 156, 2
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_clavicle
+  rotate: false
+  xy: 120, 4
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_forearm
+  rotate: true
+  xy: 387, 56
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_hand
+  rotate: false
+  xy: 441, 56
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_thigh
+  rotate: false
+  xy: 300, 49
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_upperArm
+  rotate: true
+  xy: 470, 87
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+huyanzhuo_r_weapon
+  rotate: true
+  xy: 151, 120
+  size: 32, 130
+  orig: 32, 130
+  offset: 0, 0
+  index: -1
+huyanzhuo_spine
+  rotate: false
+  xy: 831, 179
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+tx/l1
+  rotate: true
+  xy: 300, 2
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+tx/l2
+  rotate: false
+  xy: 437, 88
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/l3
+  rotate: true
+  xy: 2, 2
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+tx/l4
+  rotate: false
+  xy: 647, 184
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+tx/l7
+  rotate: false
+  xy: 151, 154
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+11101.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 308, 82
+  size: 194, 42
+  orig: 194, 42
+  offset: 0, 0
+  index: -1
+tx/a1
+  rotate: true
+  xy: 308, 38
+  size: 42, 103
+  orig: 42, 103
+  offset: 0, 0
+  index: -1
+tx/a2
+  rotate: false
+  xy: 413, 2
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+tx/a3
+  rotate: true
+  xy: 455, 41
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+tx/a4
+  rotate: false
+  xy: 209, 23
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+tx/a5
+  rotate: false
+  xy: 108, 21
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+tx/a6
+  rotate: false
+  xy: 2, 17
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1

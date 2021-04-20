@@ -1,0 +1,41 @@
+
+16032.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/atks/02/01
+  rotate: false
+  xy: 300, 7
+  size: 114, 47
+  orig: 149, 54
+  offset: 9, 3
+  index: -1
+tx/atks/02/02
+  rotate: false
+  xy: 2, 4
+  size: 149, 50
+  orig: 149, 54
+  offset: 0, 3
+  index: -1
+tx/atks/02/03
+  rotate: false
+  xy: 153, 2
+  size: 145, 52
+  orig: 149, 54
+  offset: 4, 1
+  index: -1
+tx/atks/02/04
+  rotate: false
+  xy: 416, 10
+  size: 44, 44
+  orig: 149, 54
+  offset: 67, 7
+  index: -1
+tx/atks/02/05
+  rotate: false
+  xy: 462, 23
+  size: 33, 31
+  orig: 149, 54
+  offset: 69, 17
+  index: -1

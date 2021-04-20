@@ -1,0 +1,167 @@
+
+42014.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozitou
+  rotate: true
+  xy: 313, 172
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 318, 140
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+gunzi
+  rotate: false
+  xy: 161, 173
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+gunzimao
+  rotate: true
+  xy: 250, 223
+  size: 31, 93
+  orig: 31, 93
+  offset: 0, 0
+  index: -1
+hanshui
+  rotate: false
+  xy: 178, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+jinengbaozi
+  rotate: false
+  xy: 164, 49
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+jinengguang
+  rotate: true
+  xy: 401, 205
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+jinengshou
+  rotate: false
+  xy: 453, 211
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+jinengshou2
+  rotate: false
+  xy: 340, 178
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 345, 221
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+putong
+  rotate: true
+  xy: 284, 131
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+shengli
+  rotate: false
+  xy: 247, 131
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 84
+  size: 157, 170
+  orig: 157, 170
+  offset: 0, 0
+  index: -1
+shifa
+  rotate: false
+  xy: 178, 19
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+shoushang
+  rotate: true
+  xy: 210, 49
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+tanhao
+  rotate: false
+  xy: 233, 125
+  size: 12, 46
+  orig: 12, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 250, 168
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 138, 37
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+yaodaijie
+  rotate: true
+  xy: 215, 16
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 5
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+youshouzhang
+  rotate: false
+  xy: 138, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 86, 14
+  size: 50, 68
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+zuoxiaoshou
+  rotate: false
+  xy: 161, 87
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1

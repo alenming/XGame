@@ -1,0 +1,69 @@
+
+12002.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 522, 179
+  size: 122, 133
+  orig: 150, 150
+  offset: 14, 15
+  index: -1
+02
+  rotate: false
+  xy: 154, 14
+  size: 136, 150
+  orig: 150, 150
+  offset: 9, 0
+  index: -1
+03
+  rotate: false
+  xy: 522, 303
+  size: 144, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 668, 307
+  size: 143, 146
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 14
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FlashR
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+daguangquan
+  rotate: false
+  xy: 291, 223
+  size: 229, 230
+  orig: 250, 244
+  offset: 10, 9
+  index: -1
+s1
+  rotate: false
+  xy: 813, 309
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2, 166
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1

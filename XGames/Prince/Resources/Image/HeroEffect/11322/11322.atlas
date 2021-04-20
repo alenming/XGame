@@ -1,0 +1,20 @@
+
+11322.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/XuanZhuan
+  rotate: false
+  xy: 2, 2
+  size: 302, 211
+  orig: 302, 302
+  offset: 0, 91
+  index: -1
+TX/daoguang
+  rotate: true
+  xy: 306, 60
+  size: 153, 264
+  orig: 153, 264
+  offset: 0, 0
+  index: -1

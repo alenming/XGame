@@ -1,0 +1,41 @@
+
+15021.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/atk/1/01
+  rotate: false
+  xy: 2, 2
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+tx/atk/1/02
+  rotate: false
+  xy: 172, 6
+  size: 140, 107
+  orig: 140, 107
+  offset: 0, 0
+  index: -1
+tx/atk/1/03
+  rotate: false
+  xy: 314, 8
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+tx/atk/1/04
+  rotate: false
+  xy: 412, 30
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+tx/atk/1/05
+  rotate: false
+  xy: 466, 52
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1

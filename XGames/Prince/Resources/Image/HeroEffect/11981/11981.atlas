@@ -1,0 +1,41 @@
+
+11981.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+011
+  rotate: true
+  xy: 2, 75
+  size: 51, 225
+  orig: 51, 225
+  offset: 0, 0
+  index: -1
+gunhit1
+  rotate: false
+  xy: 2, 2
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+gunhit2
+  rotate: false
+  xy: 191, 2
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+gunhit3
+  rotate: true
+  xy: 229, 85
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+gunhit4
+  rotate: true
+  xy: 68, 7
+  size: 66, 121
+  orig: 66, 121
+  offset: 0, 0
+  index: -1

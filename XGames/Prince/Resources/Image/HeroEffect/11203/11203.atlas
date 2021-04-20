@@ -1,0 +1,153 @@
+
+11203.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FlashB
+  rotate: false
+  xy: 314, 78
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+a15
+  rotate: false
+  xy: 314, 90
+  size: 52, 140
+  orig: 52, 140
+  offset: 0, 0
+  index: -1
+a16
+  rotate: false
+  xy: 851, 204
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+atk1
+  rotate: false
+  xy: 851, 267
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+atk2
+  rotate: true
+  xy: 198, 71
+  size: 159, 114
+  orig: 159, 114
+  offset: 0, 0
+  index: -1
+atk3
+  rotate: false
+  xy: 193, 232
+  size: 163, 113
+  orig: 163, 113
+  offset: 0, 0
+  index: -1
+atk4
+  rotate: false
+  xy: 417, 291
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+atk5
+  rotate: true
+  xy: 969, 299
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+atk6
+  rotate: true
+  xy: 358, 271
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+atk7
+  rotate: false
+  xy: 87, 6
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+atk8
+  rotate: false
+  xy: 2, 2
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 583, 288
+  size: 162, 105
+  orig: 162, 105
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 2, 185
+  size: 189, 162
+  orig: 190, 163
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 2, 63
+  size: 194, 120
+  orig: 194, 120
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 195, 386
+  size: 218, 124
+  orig: 218, 124
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 415, 396
+  size: 223, 114
+  orig: 223, 114
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 640, 395
+  size: 211, 115
+  orig: 211, 115
+  offset: 0, 0
+  index: -1
+b7
+  rotate: true
+  xy: 747, 246
+  size: 147, 102
+  orig: 147, 102
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 853, 360
+  size: 169, 150
+  orig: 169, 150
+  offset: 0, 0
+  index: -1
+b9
+  rotate: false
+  xy: 2, 349
+  size: 191, 161
+  orig: 191, 161
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: true
+  xy: 195, 347
+  size: 37, 220
+  orig: 37, 220
+  offset: 0, 0
+  index: -1
